@@ -1,2 +1,2 @@
-import {FunctionalComponent} from './FunctionalComponent';
+import { FunctionalComponent } from './FunctionalComponent';
 export default FunctionalComponent;
